@@ -8,6 +8,8 @@ The setup:
 
   Or using Venv ( Virtual Environment )
 
+    cd Ikora
+
     python -m venv Dependencies
 
     source Dependencies/bin/activate
